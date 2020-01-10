@@ -1,4 +1,4 @@
-# tv-app
+# WatchList
 
 Technologies Used
 ---
